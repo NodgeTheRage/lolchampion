@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NodgeTheRage/lolchampion/static/css/main.9e06615c.css",
+    "main.js": "/NodgeTheRage/lolchampion/static/js/main.e417fb2b.js",
+    "static/js/787.21f4c018.chunk.js": "/NodgeTheRage/lolchampion/static/js/787.21f4c018.chunk.js",
+    "static/media/wallpaper.jpg": "/NodgeTheRage/lolchampion/static/media/wallpaper.36da06270cae5f3b9391.jpg",
+    "static/media/katarina.gif": "/NodgeTheRage/lolchampion/static/media/katarina.3af75eb4cfdf37648bd8.gif",
+    "index.html": "/NodgeTheRage/lolchampion/index.html",
+    "main.9e06615c.css.map": "/NodgeTheRage/lolchampion/static/css/main.9e06615c.css.map",
+    "main.e417fb2b.js.map": "/NodgeTheRage/lolchampion/static/js/main.e417fb2b.js.map",
+    "787.21f4c018.chunk.js.map": "/NodgeTheRage/lolchampion/static/js/787.21f4c018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e06615c.css",
+    "static/js/main.e417fb2b.js"
+  ]
+}
